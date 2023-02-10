@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fida-matin
 - 👀 I’m interested in artificial intelligence and app development
-- 🌱 I’m currently learning REACT native and python libraries for AI and game development
-- 💞️ I’m looking to collaborate on an App or simple game!
+- 🌱 I’m currently learning Swift and GO for app development and automation
+- 💞️ I’m looking to collaborate on Machine Learning projects!
 - 📫 How to reach me, email: fidatkd2@gmail.com
 
 <!---
